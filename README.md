@@ -1,5 +1,9 @@
 # Android tools
 Collection of scripts to help with Android ROM stuff.  
+
+## Author:
+
+Sourangshu Ghosh
   
 **Setup**:  
 `chmod +x setup.sh`  
