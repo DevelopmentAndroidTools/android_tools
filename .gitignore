@@ -1,0 +1,11 @@
+dumps/
+dummy_dt/
+input/
+helpers/extract-ikconfig
+kernels/
+working/
+vendor/
+tools/extract-dtb/
+tools/Firmware_extractor/
+tools/mkbootimg_tools/
+.fuse_*
