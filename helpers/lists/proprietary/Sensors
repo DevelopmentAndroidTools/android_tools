@@ -1,0 +1,10 @@
+vendor/bin/sensors.qcom
+vendor/bin/sensors.qti
+vendor/etc/elliptic_sensor.xml
+vendor/lib/libcalmodule_common.so
+vendor/lib/libssc_default_listener.so
+vendor/lib/sensor_calibrate.so
+vendor/lib64/libcalmodule_common.so
+vendor/lib64/libnotifyaudiohal.so
+vendor/lib64/libssc_default_listener.so
+vendor/lib64/sensor_calibrate.so
